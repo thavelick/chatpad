@@ -31,6 +31,10 @@
         "label": "GPT-4 (Limited Beta)"
       },
       {
+        "value": "gpt-4-1106-preview",
+        "label": "GPT-4 (Turbo Preview)"
+      },
+      {
         "value": "gpt-4-0613",
         "label": "GPT-4-0613 (Limited Beta)"
       },
